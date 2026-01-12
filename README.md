@@ -21,3 +21,5 @@ The next stage involves data preparation, which is critical for reliable perform
 Once data is prepared, an appropriate machine learning algorithm is selected based on the problem type, dataset size, and interpretability requirements. Common choices include linear regression, decision trees, support vector machines, neural networks, and ensemble methods. The dataset is typically split into training, validation, and testing sets to evaluate generalization. Model training involves optimizing parameters by minimizing a loss function using techniques such as gradient descent or probabilistic estimation.
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/57c57076-09ac-4354-9c62-e5cb30a6ca7d)
